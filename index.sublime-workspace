@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AN",
+				"ANTAR_OBAT"
+			],
+			[
+				"sta",
+				"status_obat"
+			],
+			[
+				"id_",
+				"id_pasien"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"id",
+				"id_pasien"
+			],
+			[
+				"status",
+				"status_obat"
+			],
+			[
+				"hasi",
+				"hasillab"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"has",
+				"hasilfisik"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inp",
+				"input_keterangan"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"at",
+				"input_aturan"
+			],
+			[
+				"in",
+				"input_jenis"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"jam",
+				"jam_tutup"
+			],
+			[
+				"getAntr",
+				"getAntrianNoll"
+			],
+			[
+				"postNo",
+				"postNotificationNow"
+			],
+			[
+				"pas",
+				"pasien"
+			],
+			[
+				"antrai",
+				"antrian_sisa"
+			],
+			[
+				"date",
+				"date2"
+			],
+			[
+				"dat",
+				"date1"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"KLINIK",
+				"KLINIK_BUKA"
+			],
+			[
+				"te",
+				"telepon"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Sek",
+				"Sekarang"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"tabe",
+				"table-warning"
+			],
+			[
+				"ali",
+				"text-align-last"
+			],
+			[
+				"o",
+				"ol\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/klinik_paradise/app/StatusAntarObat.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/RMController.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/pegawai/hasil_allrm.blade.php",
+		"/C/xampp/htdocs/klinik_paradise/routes/api.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/AndroidUserController.php",
+		"/C/xampp/htdocs/klinik_paradise/routes/web.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/pegawai/index_hasilrm.blade.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/pegawai/index_rm.blade.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/layouts/master.blade.php",
+		"/C/xampp/htdocs/klinik_paradise/public/AdminLTE/dist/js/grafik",
+		"/C/xampp/htdocs/klinik_paradise/public/AdminLTE/dist/js/obat.js",
+		"/C/xampp/htdocs/klinik_paradise/app/RekamMedis.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Antrian.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/CekFisikController.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/dokter/form_ceklab.blade.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/dokter/index_rm.blade.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/AntrianController.php",
+		"/C/xampp/htdocs/klinik_paradise/app/User.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Role.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/JadwalController.php",
+		"/C/xampp/htdocs/klinik_paradise/app/Http/Controllers/PegawaiController.php",
+		"/C/xampp/htdocs/klinik_paradise/resources/views/home.blade.php",
+		"/C/xampp/htdocs/pitik.com/input-gambar.php",
+		"/C/xampp/htdocs/pitik.com/css/agency.css",
+		"/C/xampp/htdocs/pitik.com/about.php",
+		"/C/xampp/htdocs/pitik.com/register.php",
+		"/C/xampp/htdocs/pitik.com/login-field.php",
+		"/C/xampp/htdocs/pitik.com/logout.php",
+		"/C/xampp/htdocs/pitik.com/profile.php",
+		"/C/xampp/htdocs/pitik.com/prosesdelete.php",
+		"/C/xampp/htdocs/pitik.com/proseslike.php",
+		"/C/xampp/htdocs/pitik.com/proseslogin.php",
+		"/C/xampp/htdocs/pitik.com/prosesregister.php",
+		"/C/xampp/htdocs/pitik.com/prosesupload.php",
+		"/C/Users/Asus/VirtualBox VMs/coba/Logs/VBoxHardening.log",
+		"/C/xampp/htdocs/pitik.com/w3.css",
+		"/C/xampp/htdocs/pitik.com/portofolio.php",
+		"/D/penjualan.dat",
+		"/D/penjualan.ctl",
+		"/E/backup D/Smstr 5/web/warna web pitik.txt",
+		"/D/penjualan.bad",
+		"/D/penjualan.ctl.txt",
+		"/C/xampp/htdocs/tryajax/mhs.sql",
+		"/C/xampp/htdocs/tryajax/index.php",
+		"/C/xampp/htdocs/queeticket/print.php",
+		"/C/xampp/htdocs/queeticket/dashboard.php",
+		"/D/Heart.off",
+		"/C/xampp/htdocs/queeticket/updatelupa.php",
+		"/C/xampp/htdocs/queeticket/updatelupa_pegawai.php",
+		"/C/xampp/htdocs/queeticket/tabledata.php",
+		"/C/xampp/htdocs/queeticket/reset.php",
+		"/C/xampp/htdocs/queeticket/notif.php",
+		"/C/xampp/htdocs/queeticket/cobantrian.php",
+		"/C/xampp/htdocs/queeticket/index.php",
+		"/C/xampp/htdocs/queeticket/admin/plugins/input-mask/jquery.inputmask.numeric.extensions.js",
+		"/C/xampp/htdocs/SIM_Antrian/hasil.php",
+		"/C/xampp/htdocs/SIM_Antrian/index.php",
+		"/C/xampp/htdocs/queeticket/printpdf.php",
+		"/C/xampp/htdocs/SIM_KA/SIM/register.php",
+		"/C/xampp/htdocs/SIM_KA/SIM/point2.html",
+		"/C/xampp/htdocs/SIM_KA/SIM/point.html",
+		"/C/xampp/htdocs/ProjekWEB/about.php",
+		"/C/xampp/htdocs/SIM_KA/SIM/formulir.php",
+		"/C/xampp/htdocs/SIM_KA/SIM/beranda.html",
+		"/C/xampp/htdocs/SIM_KA/SIM/config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
